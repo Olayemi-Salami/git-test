@@ -1,0 +1,32 @@
+
+body{
+    width: 90%;
+    height: 90vh;
+    background:#c0e7f3;
+}
+
+.writeup{
+    padding-left: 38%;
+    margin-top: 8%;
+}
+
+.container{
+  background-color: white;
+  padding: 1rem;
+  border-radius: 20px;
+  max-width: 320px;
+  text-align: center;
+  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);
+}
+
+.writeup img{
+    height: 300px;
+    border-radius: 5px;
+}
+
+
+@media (max-width: 375px) {
+  .card {
+    margin: 1rem;
+  }
+}
